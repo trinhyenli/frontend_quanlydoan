@@ -1,10 +1,10 @@
 import { useState, useMemo } from "react";
 
 const COLORS = {
-  navy: "#0B2D6B",
-  navyLight: "#1a3f8f",
-  blue: "#1565C0",
-  blueLight: "#1976D2",
+  navy: "#00528D",
+  navyLight: "#0067AD",
+  blue: "#1776BD",
+  blueLight: "#4795D1",
   accent: "#2196F3",
   accentLight: "#E3F2FD",
   white: "#ffffff",
